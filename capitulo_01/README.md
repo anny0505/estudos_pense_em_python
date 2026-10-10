@@ -9,7 +9,7 @@ Neste capítulo, aprendi sobre como um cientista da computação deve pensar e s
 * Linguagens formais são usadas para aplicações específicas. Linguagem de programação é usada para denotar tarefas computacionais. São claras, sem redundância e independem da interpretação de fatores externos.
 
 ### O que é um programa?
-**Programa:** conjunto de instruções que descrevem o passo a passo que o computador deve seguir para realizar um objetivo ou tarefa
+**Programa:** conjunto de instruções que descrevem o passo a passo que o computador deve seguir para realizar um objetivo ou tarefa  
 **Instrução:** é um comando unitário que o computador executa
 
 Qualquer programa de computador, por mais complicado que seja pode ser "quebrado" em pequenas partes e simplificado de tal forma que encontramos as seguintes instruções:  
