@@ -17,7 +17,7 @@ print(2 ++ 2)
 # Erro: SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
 # Esse erro de sintaxe ocorre em razão de reduzir redundância. Historicamente se usava 0 à esquerda para n° da base octal
 # Devido a confusão das pessoas que viam o 010 como número 10 e não 8, Python determinou a ilegalidade do 0 à esquerda se
-# não houve prefixo o.
+# não houver prefixo o.
 print(02)
 
 # 5. O que acontece se você tiver dois valores sem nenhum operador entre eles?
