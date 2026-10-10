@@ -6,7 +6,7 @@ Neste capítulo, aprendi sobre como um cientista da computação deve pensar e s
 * Programar é uma habilidade útil, mas serve, sobretudo, para exercitar a capacidade de Resolução de Problemas.
 * Python é uma linguagem interpretada: um interpretador vai "traduzir" o código escrito na linguagem de alto nível para uma linguagem de baixo nível que o computador entende (0 e 1).
 * Linguagens naturais servem para classificar os idiomas falados. Caractéristicas: redundância, dependente do contexto, cheia de metáforas
-* Linguagens formais são usadas para aplicações específicas. Linguagem de programação é usada para denotar tarefas computacionais. São claras, sem redundância e independem do contexto.
+* Linguagens formais são usadas para aplicações específicas. Linguagem de programação é usada para denotar tarefas computacionais. São claras, sem redundância e independem da interpretação de fatores externos.
 
 ### O que é um programa?
 **Programa:** conjunto de instruções que descrevem o passo a passo que o computador deve seguir para realizar um objetivo ou tarefa
