@@ -3,4 +3,7 @@
 
 <img src="capa.jpg" alt="Capa do livro Pense em Python" width="250">
 
+--- 
+
+### Sumário:
 - [Capítulo 1: A Jornada do Programa](./capitulo_01/README.md)
